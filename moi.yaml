@@ -8849,7 +8849,7 @@ payload:
   - "sonar.fzmm1-1.fna.whatsapp.net"
   - "sonicautomotive.telegram.com"
   - "sonos-queue-bridge.deezer.com"
-  - "soundcloud.com"
+  - "+.soundcloud.com"
   - "southwest.telegram.com"
   - "sp-ad-cf.audio.tidal.com"
   - "sp-ad-hw.audio.tidal.com"
