@@ -1,4 +1,4 @@
-playload:
+payload:
  - "2024recap-framer-prod.perplexity.ai"
  - "a-api.anthropic.com"
  - "a-cdn.anthropic.com"
